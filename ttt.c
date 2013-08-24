@@ -81,12 +81,6 @@ void main()
 	}
 }
 
-/*	if(count==9)
-	{
-		for(j=0;j<9;j++)
-	printf("%d\t", a[j]);
-	}
-*/
 
 
 }
